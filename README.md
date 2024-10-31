@@ -1,4 +1,4 @@
-# Rent-a-car
+# Rent-a-car aplikacija grupe ''Boris''
 
 Aplikacija “Rent-a-Car” koju pravimo predstavlja digitalno rešenje za iznajmljivanje automobila, kreirano sa ciljem da unapredi iskustvo korisnika i olakša administraciju rent-a-car poslovanja. Aplikacija će omogućiti korisnicima brz i jednostavan način da pretražuju, rezervišu i plaćaju najam vozila, dok će administratorima pružiti alat za efikasno upravljanje flotom i rezervacijama.
 
